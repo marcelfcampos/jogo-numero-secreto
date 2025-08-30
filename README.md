@@ -2,7 +2,7 @@
 
 ## Descrição do jogo
 
-O **Jogo do Número Secreto** é uma aplicação simples, divertida e interativa, onde o usuário é desafiado a adivinhar um número escolhido aleatoriamente pelo sistema.
+O **Jogo do Número Secreto** é uma aplicação simples, divertida e interativa, onde o usuário é desafiado a adivinhar um número escolhido aleatoriamente pelo jogo.
 
 ![Jogo do Amigo Secreto](img/telaCodigo.png)
 
@@ -26,21 +26,21 @@ Acertar o número secreto no menor número de tentativas possível.
 
 Você pode experimentar a aplicação diretamente no seu navegador clicando no link abaixo:
 
-🔗 Jogar agora 🔢 (https://projeto-numero-secreto-hazel.vercel.app/)
+[🔗 Jogar agora 🔢](https://jogo-numero-secreto-theta-puce.vercel.app/)
 
 ## Acesse o Repositório no GitHub
 
 Clone este repositório:
 
 ```bash
-git clone https://github.com/marcelfcampos/projeto-numero-secreto
+git clone https://github.com/marcelfcampos/jogo-numero-secreto.git
 ```
 
 ## Gerenciamento do Projeto (Kanban)
 
 Acompanhe o desenvolvimento do projeto e o progresso das tarefas através do nosso quadro no Trello:
 
-🔗 Acessar o Kanban do Projeto(https://trello.com/b/GyOEf3Kz/trello-challenge-amigo-secreto-pt)
+[🔗 Acessar o Trello](https://jogo-numero-secreto-theta-puce.vercel.app/)
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -65,6 +65,3 @@ Autor: **Marcel Ferreira Campos**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelfcampos/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devmarcelcampos/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/554899609690)
-
-Link com imagem (clicar na imagem abre o site)
-[![Alt da imagem](caminho/da/imagem.png)](https://www.google.com)
