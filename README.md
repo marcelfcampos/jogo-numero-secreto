@@ -1,0 +1,70 @@
+# 🔢 Jogo do Número Secreto
+
+## Descrição do jogo
+
+O **Jogo do Número Secreto** é uma aplicação simples, divertida e interativa, onde o usuário é desafiado a adivinhar um número escolhido aleatoriamente pelo sistema.
+
+![Jogo do Amigo Secreto](img/telaCodigo.png)
+
+## Como funciona o jogo?
+
+1. O sistema sorteia um número secreto de forma aleatória.
+2. O jogador deve inserir palpites (números) na tela.
+3. A cada tentativa, o jogo fornece dicas:
+
+- 🔼 "O número secreto é maior"
+- 🔽 "O número secreto é menor"
+
+4. O processo continua até o usuário acertar o número secreto.
+5. Quando o número é descoberto, o jogo exibe uma mensagem de vitória.
+
+## Objetivo
+
+Acertar o número secreto no menor número de tentativas possível.
+
+## Jogar o jogo do número secreto
+
+Você pode experimentar a aplicação diretamente no seu navegador clicando no link abaixo:
+
+🔗 Jogar agora 🔢 (https://projeto-numero-secreto-hazel.vercel.app/)
+
+## Acesse o Repositório no GitHub
+
+Clone este repositório:
+
+```bash
+git clone https://github.com/marcelfcampos/projeto-numero-secreto
+```
+
+## Gerenciamento do Projeto (Kanban)
+
+Acompanhe o desenvolvimento do projeto e o progresso das tarefas através do nosso quadro no Trello:
+
+🔗 Acessar o Kanban do Projeto(https://trello.com/b/GyOEf3Kz/trello-challenge-amigo-secreto-pt)
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (DOM e lógica de programação)
+- Speech Recognition API (reconhecimento de voz)
+- Speech Synthesis API (síntese de voz)
+
+## Sobre o Projeto e o Programa
+
+**Projeto desenvolvido em JavaScript como prática de programação.**
+
+Este trabalho foi desenvolvido como do Programa ONE (Oracle Next Education), uma iniciativa da Oracle em parceria com a Alura, que visa capacitar desenvolvedores por meio de projetos práticos e desafiadores.
+
+Autor: **Marcel Ferreira Campos**
+
+---
+
+## Minhas redes sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelfcampos/)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devmarcelcampos/)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/554899609690)
+
+Link com imagem (clicar na imagem abre o site)
+[![Alt da imagem](caminho/da/imagem.png)](https://www.google.com)
