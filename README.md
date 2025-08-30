@@ -40,7 +40,7 @@ git clone https://github.com/marcelfcampos/jogo-numero-secreto.git
 
 Acompanhe o desenvolvimento do projeto e o progresso das tarefas através do nosso quadro no Trello:
 
-[🔗 Trello](https://trello.com/b/GyOEf3Kz/trello-challenge-amigo-secreto-pt)
+[🔗 Acessar o Trello](https://trello.com/b/GyOEf3Kz/trello-challenge-amigo-secreto-pt)
 
 ## Tecnologias utilizadas
 
