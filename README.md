@@ -26,7 +26,13 @@ Acertar o número secreto no menor número de tentativas possível.
 
 Você pode experimentar a aplicação diretamente no seu navegador clicando no link abaixo:
 
-[🔗 Jogar agora 🔢](https://jogo-numero-secreto-theta-puce.vercel.app/)
+
+<a href="https://jogo-numero-secreto-theta-puce.vercel.app/" target="_blank">
+  <button style="background-color:#4CAF50; color:white; padding:8px 20px; border:none; border-radius:5px; cursor:pointer; font-size:16px;">
+    Jogar
+  </button>
+</a>
+
 
 ## Acesse o Repositório no GitHub
 
@@ -40,7 +46,11 @@ git clone https://github.com/marcelfcampos/jogo-numero-secreto.git
 
 Acompanhe o desenvolvimento do projeto e o progresso das tarefas através do nosso quadro no Trello:
 
-[🔗 Acessar o Trello](https://jogo-numero-secreto-theta-puce.vercel.app/)
+<a href="https://jogo-numero-secreto-theta-puce.vercel.app/" target="_blank">
+  <button style="background-color:#4CAF50; color:white; padding:8px 20px; border:none; border-radius:5px; cursor:pointer; font-size:16px;">
+    Trello
+  </button>
+</a>
 
 ## 🛠️ Tecnologias utilizadas
 
